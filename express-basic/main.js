@@ -1,4 +1,4 @@
-// const express = require("express");   // common js  // defaultnya dia kalau pakai common js, kalau kita tidak memberikan type modulenya
+// const express = require("express");   // common js  // secara default berupa common js, kalau kita tidak memberikan type di package.jsonnya
 import express from "express";           // ES Modules (ESM)
 import mysql from "mysql";
 import cors from "cors"
